@@ -1,6 +1,6 @@
 
 
-[
+let jsonData=[
   {
     "id": 1,
     "name": "Usuario 1",
@@ -12,6 +12,6 @@
     "email": "usuario2@example.com"
   }
 
-]
+];
 
 
