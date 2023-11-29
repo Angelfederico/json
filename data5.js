@@ -10,8 +10,8 @@
     "id": 2,
     "name": "Usuario 2",
     "email": "usuario2@example.com"
-  },
-  // ... otros objetos JSON ...
+  }
+
 ]
 
 
