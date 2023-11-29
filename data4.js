@@ -1,6 +1,6 @@
 
 
-const jsonData = [
+[
   {
     "id": 1,
     "name": "Usuario 1",
@@ -12,6 +12,6 @@ const jsonData = [
     "email": "usuario2@example.com"
   },
   // ... otros objetos JSON ...
-];
+]
 
 
