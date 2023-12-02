@@ -1,6 +1,6 @@
 
 
-const jsonData=[
+ window.jsonData=[
   {
     "albumId": 1,
     "id": 1,
